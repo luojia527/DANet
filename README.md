@@ -2,7 +2,7 @@
 
 This is our implementation for the paper:
 
-*DANet: Deformable Attentive Network for Reinforcement Tracking Method*
+*DANet: Deformable Attentive Network for Deep Reinforcement Tracking Approach*
 
 
 
